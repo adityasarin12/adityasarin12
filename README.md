@@ -49,11 +49,6 @@ Python, SQL, Pandas, NumPy, scikit-learn, Streamlit, MySQL, Power BI, Git, GitHu
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityasarin12&theme=darkhub&no-frame=true&row=1)
-
----
-
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasarin12&theme=react-dark)
 
