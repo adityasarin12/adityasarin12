@@ -7,7 +7,7 @@
 ---
 
 ## 💫 About Me
-🎓 **B.Tech Computer Science (AI & ML)** — 6th Semester  
+🎓 **B.Tech Computer Science (AI & ML) student at Sharda University** — 6th Semester  
 💡 Interested in **Data Analytics, Machine Learning & Backend Development**  
 📊 Passionate about building **data-driven solutions** using Python & SQL  
 🚀 Always learning, experimenting, and building real-world projects  
