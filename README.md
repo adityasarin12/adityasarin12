@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 🎓 **B.Tech Computer Science (AI & ML) student at Sharda University** — 6th Semester  
 💡 Interested in **Data Analytics, Machine Learning & Backend Development**  
 📊 Passionate about building **data-driven solutions** using Python & SQL  
@@ -19,8 +19,8 @@ Python, SQL, Pandas, NumPy, scikit-learn, Streamlit, MySQL, Power BI, Git, GitHu
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sarin-14a3422a5/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/adityasarin12/)
-[![Codolio](https://img.shields.io/badge/Codolio-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/adityasarin12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/adityasarin12/) 
+[![Codolio](https://img.shields.io/badge/Codolio-1DA1F2?logo=codeforces&logoColor=white)](https://codolio.com/profile/adityasarin12) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/adityasarin12)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasarinxb@gmail.com)
 
